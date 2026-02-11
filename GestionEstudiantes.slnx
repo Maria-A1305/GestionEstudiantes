@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestionEstudiantes.Data/GestionEstudiantes.Datos.csproj" />
+  <Project Path="GestionEstudiantes.Presentation/GestionEstudiantes.Presentacion.csproj" />
+</Solution>
